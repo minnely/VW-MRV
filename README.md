@@ -9,7 +9,7 @@ Este proyecto muestra un dashboard interactivo creado en Power BI para analizar 
 
 ## 🖼️ Vista previa
 
-![Dashboard Preview](Screensho.png)
+![Dashboard Preview](Screenshot.png)
 
 ## 🔗 Descargar el archivo `.pbix`
 
