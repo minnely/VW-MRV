@@ -7,6 +7,10 @@ Este proyecto muestra un dashboard interactivo creado en Power BI para analizar 
 - Filtros interactivos por año.
 - Visualizaciones dinámicas.
 
+## 🖼️ Vista previa
+
+![Dashboard Preview](Screenshot 2025-05-15 012221.png)
+
 ## 🔗 Descargar el archivo `.pbix`
 
 Puedes descargar el archivo desde el siguiente enlace:
